@@ -165,9 +165,3 @@ This project is configured for deployment on Fly.io.
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
-```
-
-### One final tip before you push:
-At the very bottom of the README, I mentioned a `LICENSE`. You don't have one yet. You don't *have* to add one, but it's best practice. If you want to, go to your GitHub repo page -> **Add file** -> **Create new file** -> name it `LICENSE` -> a button will appear on the right saying "Choose a license template" -> select MIT. It makes your project look completely professional!
