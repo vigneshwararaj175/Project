@@ -1,0 +1,54 @@
+
+E-COMMERCE SALES ANALYTICS REPORT
+=================================
+
+EXECUTIVE SUMMARY
+----------------
+Total Revenue: $4,873,173.51
+Total Orders: 4,933
+Average Order Value: $987.87
+Average Customer Rating: 2.97/5.0
+
+TOP PERFORMING CATEGORIES
+------------------------
+product_category
+Electronics    1736507.47
+Clothing       1472362.59
+Home            934168.08
+
+REGIONAL PERFORMANCE
+-------------------
+region
+West     1295981.12
+North    1228834.11
+East     1183328.74
+South    1165029.54
+
+CUSTOMER SEGMENTS
+----------------
+                  Avg Revenue  Avg Orders  Avg Quantity  Avg Order Value  Avg Tenure (days)  Customer Count
+customer_segment                                                                                           
+0                     7434.17        7.04         29.38          1083.21            3770.63             418
+1                     3092.28        3.49         13.11           918.14            2373.78             571
+
+MODEL PERFORMANCE
+----------------
+Best Model: Random Forest
+R² Score: 0.9978
+Mean Absolute Error: $23.77
+
+KEY INSIGHTS
+------------
+1. Peak shopping periods identified for targeted marketing
+2. 2 distinct customer segments identified
+3. Top categories account for 85.0% of revenue
+4. Average delivery time: 6.1 days
+
+RECOMMENDATIONS
+---------------
+1. Focus marketing on high-revenue categories and regions
+2. Implement loyalty programs for high-value customer segments
+3. Optimize delivery for categories with long delivery times
+4. Use pricing strategies based on regional preferences
+5. Target discounts to increase sales in underperforming categories
+6. Monitor customer ratings and address low-rated products/services
