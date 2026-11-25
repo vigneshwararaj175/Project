@@ -61,7 +61,7 @@ cd cifar10-cnn
 ### 2. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install torch torchvision matplotlib numpy
 ```
 
 ### 3. Train the model
