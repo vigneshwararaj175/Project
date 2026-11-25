@@ -21,20 +21,6 @@ This project implements a simple fully connected neural network (and an optional
 
 **Expected results:** ~97–98% test accuracy with the simple MLP, and ~99% with the CNN variant.
 
----
-
-## Project Structure
-
-```
-pytorch-mnist-beginner/
-├── train.py            # Main training script
-├── model.py            # Model definitions (SimpleNN and CNN)
-├── README.md           # This file
-├── .gitignore          # Excludes data, models, and cache files
-└── requirements.txt    # Python dependencies
-```
-
-> If you're using a single script instead, just rename `train.py` accordingly.
 
 ---
 
@@ -64,7 +50,7 @@ pip install torch torchvision matplotlib
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pytorch-mnist-beginner.git
+git clone https://github.com/vigneshwararaj175/pytorch-mnist-beginner.git
 cd pytorch-mnist-beginner
 ```
 
