@@ -40,11 +40,6 @@ Unlike the grayscale MNIST digits, CIFAR-10 forces a model to learn **color, tex
 
 Install with:
 
-```bash
-pip install -r requirements.txt
-```
-
-Or manually:
 
 ```bash
 pip install torch torchvision matplotlib numpy
